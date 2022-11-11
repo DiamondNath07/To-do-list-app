@@ -1,4 +1,3 @@
-const path = require('path');
 
 module.exports = {
   entry: './src.index.js',
@@ -6,4 +5,5 @@ module.exports = {
     filename: 'awesome.js',
     path: path.resolve(__dirname, 'dist'),
   },
+  
 };

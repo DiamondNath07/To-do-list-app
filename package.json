@@ -4,9 +4,8 @@
   "description": "This app allows you to add, delete, edit and move lists from one row to the other.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1"
+   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DiamondNath07/To-do-list-app.git"
